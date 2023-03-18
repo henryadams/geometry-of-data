@@ -6,5 +6,6 @@ Some of the jupyter notebooks in this GitHub repository are from the "Python Dat
 https://www.oreilly.com/library/view/python-data-science/9781491912126/
 
 These notebooks include:
+
 https://jakevdp.github.io/PythonDataScienceHandbook/05.11-k-means.html
 https://jakevdp.github.io/PythonDataScienceHandbook/05.09-principal-component-analysis.html
