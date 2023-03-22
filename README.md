@@ -2,6 +2,8 @@
 
 Course "The Geometry of Data" for the AIMS Rwanda Training School, Spring 2023. See the course webpage at  
 https://www.math.colostate.edu/~adams/teaching/AIMSrwanda2023/.
+The course notes are available at
+https://www.math.colostate.edu/~adams/teaching/AIMSrwanda2023/TheGeometryOfData.pdf.
 
 Some of the jupyter notebooks in this GitHub repository are from the "Python Data Science Handbook": 
 https://www.oreilly.com/library/view/python-data-science/9781491912126/.
