@@ -11,6 +11,8 @@ These notebooks include:
 https://jakevdp.github.io/PythonDataScienceHandbook/05.11-k-means.html
 and
 https://jakevdp.github.io/PythonDataScienceHandbook/05.09-principal-component-analysis.html
+and
+https://jakevdp.github.io/PythonDataScienceHandbook/05.10-manifold-learning.html
 
 Other jupyter notebooks in this GitHub repository are from scikit-learn:
 https://scikit-learn.org/.
